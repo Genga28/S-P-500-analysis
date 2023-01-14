@@ -32,3 +32,9 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/82211151/212466511-d8843bab-1e8a-4dfb-8f22-88aca9e8ca50.png)
 ![image](https://user-images.githubusercontent.com/82211151/212466516-0548a169-7e71-47ee-9233-f5fd7365a2de.png)
 ![image](https://user-images.githubusercontent.com/82211151/212466521-ec0aebe8-6f9c-4e14-9c82-5edd2044a69b.png)
+
+DATABASE:
+
+![image](https://user-images.githubusercontent.com/82211151/212466545-2bcb406b-18aa-45e7-a7ad-821eca6d0a2f.png)
+
+
